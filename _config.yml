@@ -33,8 +33,8 @@ testimonials:
 # Map
 map:
     zoom: 17
-    address: Von schroeders 273, Viña del mar, Chile
-    address_details: svg/min/logo.svg
+    address: 北京市大兴区黄村西大街双河南里中医门诊
+    address_details: /img/gallery/20170225-134121.png
 
 # Social settings
 facebook: http://facebook.com
